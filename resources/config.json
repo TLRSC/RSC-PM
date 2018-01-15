@@ -1,5 +1,0 @@
-{
-  "host": "0.0.0.0", /* Must change to NON-LOCAL ip (like google.com or 167.32.135.34 or localhost if used local server) */
-  "port": 9092,
-  "secret": "CHANGE IT"
-}

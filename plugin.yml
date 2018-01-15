@@ -1,4 +1,0 @@
-name: RSC
-main: TesLex\RSC\Main
-version: "0.2.1-ALPHA"
-api: ["1.0.0"]
